@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋
 Hi, more information is on the page in [Linkedin](https://www.linkedin.com/шмелёв).
 <!--
 **DIMA-1000/DIMA-1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
