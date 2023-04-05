@@ -1,6 +1,7 @@
 ### Hi there. CEO Startup, Android Developvent Kotlin, QA Engenieer, PM Midle.
 ### More information on the page in: [Linkedin](https://www.linkedin.com/шмелёв).
 ![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/PrashantMhrzn/PrashantMhrzn/raw/main/Tetris_Game.gif" alt="Tetris" width="50" height="50"/>
 
   ![image](https://camo.githubusercontent.com/0ac526200358c3cd09ca0eae4bc7149282c173b5fb1de1636715f18b9ab346ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
 ![image](https://camo.githubusercontent.com/78ee95caa9c866b28a4d1ae892b506ac70f3476b445cda9f242ae6e55a1e08e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333030393544352e7376673f7374796c653d666c6174266c6f676f3d6b6f746c696e)
@@ -43,6 +44,4 @@
 
 <img src="https://camo.githubusercontent.com/10f99fdd0657fedc9e677391ccccefd5c053c8adc01285b3ea6fedc320d33829/68747470733a2f2f6375746577616c6c70617065722e6f72672f32372f62696e6172792d636f64652d77616c6c70617065722d6769662f62696e6172792d636f64652d676966732d6765742d7468652d626573742d6769662d6f6e2d67697068792e676966" width="10" height="5"> this dot is not dirt on the screen.. this is an easter egg)
 
-<img src="https://github.com/austinhuang0131/austinhuang0131/raw/master/assets/2048.png" alt="2048" width="50" height="50"/>
 
-<img src="https://github.com/PrashantMhrzn/PrashantMhrzn/raw/main/Tetris_Game.gif" alt="Tetris" width="50" height="50"/>
