@@ -1,5 +1,4 @@
-### Hi there 
-### CEO Startup, Android Developvent Kotlin, QA Engenieer, PM Midle.
+### Hi there. CEO Startup, Android Developvent Kotlin, QA Engenieer, PM Midle.
 ### More information is on the page in: [Linkedin](https://www.linkedin.com/шмелёв).
 ![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
