@@ -13,3 +13,7 @@
 ![image]()
 ![image]()
 ![image]()
+![Jira](https://github.com/your-username/your-repository/blob/main/images/jira.png)
+![Postman](https://github.com/your-username/your-repository/blob/main/images/postman.png)
+![Swagger](https://github.com/your-username/your-repository/blob/main/images/swagger.png)
+![g-metr](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
