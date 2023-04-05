@@ -49,3 +49,4 @@
 
 <img src="https://github.com/austinhuang0131/austinhuang0131/raw/master/assets/2048.png" alt="2048" width="50" height="50"/>
 
+<img src="https://github.com/PrashantMhrzn/PrashantMhrzn/raw/main/Tetris_Game.gif" alt="Tetris" width="50" height="50"/>
