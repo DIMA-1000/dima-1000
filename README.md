@@ -5,9 +5,6 @@
 
 ![image](https://camo.githubusercontent.com/b1e5e29172796924aa36d8aaed7451d15c2bf12412a283d329d8cbc95b3121b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e)
 
-
-
-
 https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg
 ![Jira](https://github.com/your-username/your-repository/blob/main/images/jira.png)
 ![Postman](https://github.com/your-username/your-repository/blob/main/images/postman.png)
