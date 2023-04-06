@@ -16,7 +16,7 @@
 ![Charles Prooxy](https://github.com/your-username/your-repository/blob/main/images/postman.png)
 ![Swagger](https://github.com/your-username/your-repository/blob/main/images/swagger.png)
 ![TestRail](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
-![G-Metr](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
+![JMeter ](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
 ![Jira](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
 ![GIT-Kraken](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
 ![SoapUI](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
