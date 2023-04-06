@@ -1,6 +1,6 @@
-### Hi there) CEO Startup, Android Developvent Kotlin, QA Engenieer, PM Midle I work rm in the company asia trade remotely
+### Hi there) I am the CEO of a startup,learn Android Developvent Kotlin, WOOORKING: QA Engenieer, PM Midle,in the company asia trade remotely
 
-### I have developed 5 android games and 3 applications for learning and making life easier for people who are looking for a job. I developed them on various constructors)s))
+### **I have developed 5 android games and 3 applications for learning and making life easier for people who are looking for a job. I developed them on various constructors)s))**
 
 ### More information on the page in: [Linkedin](https://www.linkedin.com/шмелёв).
 
