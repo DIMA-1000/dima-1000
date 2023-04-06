@@ -1,6 +1,9 @@
-### Hi there. CEO Startup, Android Developvent Kotlin, QA Engenieer, PM Midle.
-### I made 5 android games and 3 applications that make life easier, assembled on various Сonstructors))
+### Hi there) CEO Startup, Android Developvent Kotlin, QA Engenieer, PM Midle I work rm in the company asia trade remotely
+
+### I have developed 5 android games and 3 applications for learning and making life easier for people who are looking for a job. I developed them on various constructors)s))
+
 ### More information on the page in: [Linkedin](https://www.linkedin.com/шмелёв).
+
 ![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
   ![image](https://camo.githubusercontent.com/0ac526200358c3cd09ca0eae4bc7149282c173b5fb1de1636715f18b9ab346ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
