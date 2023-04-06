@@ -13,12 +13,13 @@
 
 ![image](https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465)
 ![image](https://camo.githubusercontent.com/80bf6ed19e96cefee6988ece8a5480867c4e79c01d21e42a7e1ed70eb895618b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3031373543323f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465)
-![Charles](https://github.com/your-username/your-repository/blob/main/images/postman.png)
+![Charles Prooxy](https://github.com/your-username/your-repository/blob/main/images/postman.png)
 ![Swagger](https://github.com/your-username/your-repository/blob/main/images/swagger.png)
-![Test case](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
+![TestRail](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
 ![G-Metr](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
 ![Jira](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
 ![GIT-Kraken](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
+![SoapUI](https://github.com/your-username/your-repository/blob/main/images/g-metr.png)
 
 <img src="https://camo.githubusercontent.com/10f99fdd0657fedc9e677391ccccefd5c053c8adc01285b3ea6fedc320d33829/68747470733a2f2f6375746577616c6c70617065722e6f72672f32372f62696e6172792d636f64652d77616c6c70617065722d6769662f62696e6172792d636f64652d676966732d6765742d7468652d626573742d6769662d6f6e2d67697068792e676966" width="1000" height="400">
 
