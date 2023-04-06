@@ -2,7 +2,7 @@
 ### I have developed 5android games and 3applications for learning and making life easier for people who are looking for a job. I developed them on various constructors):smiley: :smiley: my applications are installed on my phone.
 After completion, in half a year, I plan to upload them through the developer tool-to the playmarket.
 
-More information on the page in: [Linkedin](https://www.linkedin.com/шмелёв). 
+More information on the page in: [Linkedin](https://www.linkedin.com/in/%D1%88%D0%BC%D0%B5%D0%BB%D1%91%D0%B2). 
 More information on the page in: [HeadHunter](https://headhunter.kg/resume/9fc17117ff0b75cd590039ed1f563630743555).
 ![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
