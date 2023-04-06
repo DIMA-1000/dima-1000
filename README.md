@@ -1,4 +1,4 @@
-### Hi there) I am the CEO of a startup,learn Android Developvent Kotlin, WORKING: QA Engenieer, PM Midle,in the company asia trade remotely.
+### Hi there) I am the CEO of a startup, WORKING: QA Engenieer, PM Midle,in the company asia trade remotely, learn: Android Developvent Kotlin.
 
 ### **I have developed 5 android games and 3 applications for learning and making life easier for people who are looking for a job. I developed them on various constructors)s))**
 
