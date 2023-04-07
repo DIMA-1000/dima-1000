@@ -1,9 +1,10 @@
  Hi there) I am the CEO of a startup, Working: QA Engenieer, PM Midle,in the company asia trade remotely; Studying: Android Developvent Kotlin.
 ### I have developed 5android games and 3applications for learning and making life easier for people who are looking for a job. I developed them on various constructors):smiley: :smiley: my applications are installed on my phone.
 After completion, in half a year, I plan to upload them through the developer tool-to the playmarket.
+![alt text](https://drive.google.com/uc?id=1Pdsgan0DlGhTWGDsrvlTKiNdAkyYX6og)
+мои фото из нейросети
 
 More information on the page in: [Linkedin](https://www.linkedin.com/in/%D1%88%D0%BC%D0%B5%D0%BB%D1%91%D0%B2). 
-More information on the page in: [HeadHunter](https://headhunter.kg/resume/9fc17117ff0b75cd590039ed1f563630743555).
 ![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
   ![image](https://camo.githubusercontent.com/0ac526200358c3cd09ca0eae4bc7149282c173b5fb1de1636715f18b9ab346ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
