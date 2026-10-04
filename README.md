@@ -14,7 +14,7 @@ Currently focused on **Web & API Security Testing, Security Automation, Cybersec
 
 - QA & Test Automation
 - Python
-- Kotlin / Android Studio
+- APP Kotlin / Android Studio
 - HTML / CSS / JavaScript
 - Web & API Security Testing
 - Security Automation
