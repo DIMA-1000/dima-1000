@@ -1,4 +1,6 @@
-# QA | Test Automation | Cybersecurity
+<img src="banner.png" width="100%" alt="Dmytro Shmelov — QA, Test Automation, Web Security, Frontend">
+
+# QA | Test Automation | Web Security | Security Automation
 
 ## About Me
 
@@ -6,7 +8,7 @@ IT background since **2022** in **QA, Test Automation, Python and Kotlin/Android
 
 Participated in the development of mobile games and applications.
 
-Currently focused on **Web & API Security Testing, Cybersecurity, Security Automation and Frontend Development**.
+Currently focused on **Web & API Security Testing, Security Automation, Cybersecurity and Frontend Development**.
 
 ## Skills
 
@@ -15,39 +17,19 @@ Currently focused on **Web & API Security Testing, Cybersecurity, Security Autom
 - Kotlin / Android Studio
 - HTML / CSS / JavaScript
 - Web & API Security Testing
+- Security Automation
 - OWASP WSTG
 - HTTP / REST APIs
 - Git / GitHub
 - GitHub Pages
 
-## Security Practice
+## Security Projects
 
-Practical security testing of real public Norwegian web applications.
+### Interactive Web Security Lab
 
-Identified reproducible issues involving **URL/parameter encoding, API input processing, HTTP 500 errors, HTTP Parameter Pollution (HPP), and security configuration**.
+Interactive security project demonstrating vulnerable and protected web application behavior.
 
----
-
-## 🔐 Web Security Testing Portfolio
-
-Practical security case study based on testing of a real Norwegian public web application.
-
-### Security Case Study
-
-🇬🇧 [English version](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio/blob/general%2Cmaster/case-studies/Norwegian-Public-Website-Security-Test.md)
-
-🇳🇴 [Norsk versjon](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio/blob/general%2Cmaster/case-studies/Sikkerhetstesting-av-norsk-offentlig-nettsted.md)
-
-➡️ [Open Web Security Testing Portfolio](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio)
-
----
-
-## 🛡️ Interactive Web Security Lab
-
-Interactive frontend security project demonstrating vulnerable and protected web application behavior.
-
-### Labs
-
+**Labs:**
 - Cross-Site Scripting (XSS)
 - Broken Access Control / IDOR
 - SQL Injection
@@ -55,9 +37,25 @@ Interactive frontend security project demonstrating vulnerable and protected web
 
 **Technologies:** HTML • CSS • JavaScript • GitHub Pages
 
-➡️ [Open Interactive Web Security Lab](https://dima-1000.github.io/interactive-web-security-lab/)
+🔗 [Open Interactive Web Security Lab](https://dima-1000.github.io/interactive-web-security-lab/)
 
-➡️ [View source code](https://github.com/DIMA-1000/interactive-web-security-lab)
+🔗 [View Source Code](https://github.com/DIMA-1000/interactive-web-security-lab)
+
+---
+
+### Web Security Testing Portfolio
+
+Practical security testing of a real Norwegian public web application.
+
+The case study covers **URL/parameter encoding, API input processing, HTTP error handling, HTTP Parameter Pollution (HPP), and security configuration**.
+
+🇬🇧 **English:**  
+[English Security Case Study](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio)
+
+🇳🇴 **Norsk:**  
+[Norsk sikkerhetsrapport](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio)
+
+🔗 [Open Web Security Testing Portfolio](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio)
 
 ---
 
@@ -67,4 +65,4 @@ Jira • Swagger / OpenAPI • Charles Proxy • JMeter • TestRail • SoapUI
 
 ## Current Direction
 
-**QA Automation → Cybersecurity → Frontend → Full-Stack**
+**QA & Test Automation → Python → Web & API Security Testing → Security Automation → Frontend → Full-Stack Development**
