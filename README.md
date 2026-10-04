@@ -1,15 +1,42 @@
- Hi there) I am the CEO of a startup, Working: QA Engenieer, PM Midle,in the company asia trade remotely; Studying: Android Developvent Kotlin.
-### I have developed 5android games and 3applications for learning and making life easier for people who are looking for a job. I developed them on various constructors):smiley: :smiley: my applications are installed on my phone.
-After completion, in half a year, I plan to upload them through the developer tool-to the playmarket.
-![alt text](https://drive.google.com/uc?id=1Pdsgan0DlGhTWGDsrvlTKiNdAkyYX6og)
-### мои фото, сделанные нейросетью, фотографии защищены авторским правом, копировать нельзя.
-### my photos taken by the neural network, photos are copyrighted, you can not copy.
-![alt text](https://drive.google.com/uc?export=view&id=13Jcq1yF5Oz55j9_PQlo2866y4EvF9FMU)
-![Alt текст](https://drive.google.com/uc?export=view&id=1bSGJphwzTClXmvABDCHHx_G4ooCClu18)
+# QA | Test Automation | Cybersecurity
 
+## About Me
 
-More information on the page in: [Linkedin](https://www.linkedin.com/in/%D1%88%D0%BC%D0%B5%D0%BB%D1%91%D0%B2). 
-![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+IT background since **2022** in **QA, Test Automation, Python and Kotlin/Android development**.
+
+Participated in the development of mobile games and applications.
+
+Currently focused on **Web & API Security Testing, Cybersecurity and Security Automation**.
+
+## Skills
+
+- QA & Test Automation
+- Python
+- Kotlin / Android Studio
+- Web & API Security Testing
+- OWASP WSTG
+- HTTP / REST APIs
+- Git / GitHub
+
+## Security Practice
+
+Practical security testing of real public Norwegian web applications.
+
+Identified reproducible issues involving **URL/parameter encoding, API input processing, HTTP 500 errors, HTTP Parameter Pollution (HPP), and security configuration**.
+
+## Security Case Study
+
+🇬🇧 [English version](case-studies/Norwegian-Public-Website-Security-Test.md)
+
+🇳🇴 [Norsk versjon](case-studies/Sikkerhetstesting-av-norsk-offentlig-nettsted.md)
+
+## Tools
+
+Jira • Swagger / OpenAPI • Charles Proxy • JMeter • TestRail • SoapUI
+
+## Current Direction
+
+**QA Automation → Cybersecurity → Frontend → Full-Stack**
 
   ![image](https://camo.githubusercontent.com/0ac526200358c3cd09ca0eae4bc7149282c173b5fb1de1636715f18b9ab346ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
 ![image](https://camo.githubusercontent.com/78ee95caa9c866b28a4d1ae892b506ac70f3476b445cda9f242ae6e55a1e08e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333030393544352e7376673f7374796c653d666c6174266c6f676f3d6b6f746c696e)
