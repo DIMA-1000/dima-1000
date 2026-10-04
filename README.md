@@ -1,6 +1,6 @@
 <img src="banner.png" width="100%" alt="Dmytro Shmelov — QA, Test Automation, Web Security, Frontend">
 
-# QA | Test Automation | Web Security | Security Automation
+#  Test Automation | APP | Web Security | Security Automation
 
 ## About Me
 
