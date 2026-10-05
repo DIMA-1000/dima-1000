@@ -1,68 +1,46 @@
-<img src="banner.png" width="100%" alt="Dmytro Shmelov — QA, Test Automation, Web Security, Frontend">
+<img src="banner.png" width="100%" alt="Dmytro Shmelov — QA, Test Automation and Web Security">
 
-#  Test Automation | APP | Web Security | Security Automation
+# QA · Test Automation · Web & API Security
 
-## About Me
+IT background since **2022**, with experience in QA, Python test automation and Kotlin/Android development. Participated in mobile game and application development.
 
-IT background since **2022** in **QA, Test Automation, Python and Kotlin/Android development**.
+Currently developing my skills in **security testing, security automation and frontend development**.
 
-Participated in the development of mobile games and applications.
+## Featured Projects
 
-Currently focused on **Web & API Security Testing, Security Automation, Cybersecurity and Frontend Development**.
+### 🛡 Interactive Web Security Lab
 
-## Skills
+Interactive demonstrations comparing vulnerable and protected application behavior.
 
-- QA & Test Automation
-- Python
-- APP Kotlin / Android Studio
-- HTML / CSS / JavaScript
-- Web & API Security Testing
-- Security Automation
-- OWASP WSTG
-- HTTP / REST APIs
-- Git / GitHub
-- GitHub Pages
+**Labs:** XSS · Broken Access Control / IDOR · SQL Injection · API Input Validation
 
-## Security Projects
+**Built with:** HTML · CSS · JavaScript · GitHub Pages
 
-### Interactive Web Security Lab
+[🌐 Open Lab](https://dima-1000.github.io/interactive-web-security-lab/) · [💻 Source Code](https://github.com/DIMA-1000/interactive-web-security-lab)
 
-Interactive security project demonstrating vulnerable and protected web application behavior.
+### 📱 AntiStress Trade
 
-**Labs:**
-- Cross-Site Scripting (XSS)
-- Broken Access Control / IDOR
-- SQL Injection
-- API Input Validation
+Android application designed to reduce visual distraction from changing financial figures and bright trading colors.
 
-**Technologies:** HTML • CSS • JavaScript • GitHub Pages
+The public showcase presents selected features and screenshots. A working build is undergoing closed testing through Google Play Console. Source code remains private.
 
-🔗 [Open Interactive Web Security Lab](https://dima-1000.github.io/interactive-web-security-lab/)
+[📸 App Showcase](https://github.com/DIMA-1000/ANTISTRESS-TRADE-Showcase.-public-/tree/general%2Cmaster)
 
-🔗 [View Source Code](https://github.com/DIMA-1000/interactive-web-security-lab)
+### 🔍 Web Security Testing Portfolio
 
----
+Practical case study of a Norwegian public web application, covering URL and parameter encoding, API input processing, HTTP error handling, HTTP Parameter Pollution and security configuration.
 
-### Web Security Testing Portfolio
+**Reports:** 🇬🇧 English · 🇳🇴 Norsk
 
-Practical security testing of a real Norwegian public web application.
+[📄 Explore Case Study](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio)
 
-The case study covers **URL/parameter encoding, API input processing, HTTP error handling, HTTP Parameter Pollution (HPP), and security configuration**.
+## Skills & Tools
 
-🇬🇧 **English:**  
-[English Security Case Study](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio)
+**Testing:** QA · Test Automation · Web & API Security Testing · OWASP WSTG  
+**Development:** Python · Kotlin / Android Studio · HTML · CSS · JavaScript  
+**Web:** HTTP · REST APIs · Swagger / OpenAPI  
+**Tools:** Jira · Charles Proxy · JMeter · TestRail · SoapUI · Git · GitHub
 
-🇳🇴 **Norsk:**  
-[Norsk sikkerhetsrapport](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio)
+## Learning & Career Direction
 
-🔗 [Open Web Security Testing Portfolio](https://github.com/DIMA-1000/Web-Security-Testing-Portfolio)
-
----
-
-## Tools
-
-Jira • Swagger / OpenAPI • Charles Proxy • JMeter • TestRail • SoapUI
-
-## Current Direction
-
-**QA & Test Automation → Python → Web & API Security Testing → Security Automation → Frontend → Full-Stack Development**
+Building on my QA and automation background, I am expanding into **Security Automation** and **Frontend Development**, with a long-term goal of **Full-Stack Development**.
