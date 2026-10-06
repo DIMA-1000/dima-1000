@@ -1,6 +1,6 @@
 <img src="banner.png" width="100%" alt="Dmytro Shmelov — QA, Test Automation and Web Security">
 
-# QA · Test Automation · Web & API Security
+# 
 
 IT background since **2022**, with experience in QA, Python test automation and Kotlin/Android development. Participated in mobile game and application development.
 
